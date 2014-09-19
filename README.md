@@ -7,7 +7,9 @@ React TODO
 
 ## Usage
 
-gulp or gulp browserify
+- npm install
+
+- gulp or gulp browserify
 
 ## Todo
 
